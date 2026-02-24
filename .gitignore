@@ -78,15 +78,6 @@ data/**/*.duckdb
 data/**/*.parquet
 *.xlsx
 
-# Tier 1 allowlist: small synthetic CSVs that ship in git (~4MB total)
-!data/novamart/calendar.csv
-!data/novamart/experiments.csv
-!data/novamart/promotions.csv
-!data/novamart/products.csv
-!data/novamart/memberships.csv
-!data/novamart/nps_responses.csv
-!data/novamart/experiment_assignments.csv
-!data/novamart/order_items.csv
 
 # Zillow (should never exist, belt-and-suspenders)
 data/zillow/

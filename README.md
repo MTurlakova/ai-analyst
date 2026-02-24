@@ -256,7 +256,7 @@ Your Data --> chart_helpers.py --> Base Chart (150 DPI)
 
 | Dataset | Path | Description |
 |---------|------|-------------|
-| Hero | `data/hero/` | Guided exercise dataset |
+| Hero | `data/hero/` | Guided exploration dataset |
 | Examples | `data/examples/` | Curated public datasets with README guides |
 
 ### Connect your own
